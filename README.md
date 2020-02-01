@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-Sandhya Veludandi
+Created by Bria Whitt and Sandhya Veludandi
 
 ## Available Scripts
 
